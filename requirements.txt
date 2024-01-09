@@ -1,11 +1,7 @@
 streamlit
-pypdf2
-langchain
+google-generativeai
 python-dotenv
+langchain
+PyPDF2
 faiss-cpu
-openai
-huggingface_hub
-sentence-transformers
-InstructorEmbedding
-transformers
-ctransformers
+langchain_google_genai
