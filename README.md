@@ -1,4 +1,4 @@
-This code is a Streamlit app that allows users to chat with a large language model (LLM) about multiple PDFs. The app uses the following steps:
+This code is a Streamlit app that allows users to chat with a LLM(Gemini) about multiple PDFs. The app uses the following steps:
 
 The user uploads one or more PDFs to the app.
 The app extracts the text from the PDFs.
